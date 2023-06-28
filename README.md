@@ -1,5 +1,5 @@
 # myapp
-deployment of 3 tier Java application with a database using 
+Deployment of a 3-tier Java application with a MySQL database using: 
 Terraform- IAAS, 
 AWS EKS - Kubernetes Cluster, 
 helm charts - installation of Prometheus and Grafana,
